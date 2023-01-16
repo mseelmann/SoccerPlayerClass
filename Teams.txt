@@ -1,0 +1,63 @@
+Arsenal	AstonVilla	
+Bournemouth	
+Brentford	Brighton&HoveAlbion	     Chelsea	
+CrystalPalace Everton	Fulham	LeedsUnited	LeicesterCity	
+Liverpool	ManchesterCity	
+ManchesterUnited	
+NewcastleUnited	
+NottinghamForest	
+Southampton	
+TottenhamHotspur	
+WestHamUnited	
+WolverhamptonWanderers	
+	Bilbao	
+Atletico	
+Osasuna	
+Cadiz	
+Elche	
+Espanyol	
+Barcelona	
+Getafe	
+Girona	
+Vallecano	
+CeltaVigo	
+Mallorca	
+RealBetis	
+RealMadrid	
+RealSociedad	
+Valladolid	
+Sevilla	
+Almeria	
+Valencia	
+Villarreal
+FCCologne
+Leverkusen	
+BayernMunich	
+BorussiaDortmund
+BorussiaMonchengladbach
+EintrachtFrankfurt
+Augsburg	 FSVMainz
+Hertha	
+Leipzig	
+Freiburg	
+Schalke	
+Hoffenheim	
+UnionBerlin	
+Stuttgart	
+Bochum	
+Wolfsburg	WerderBremen
+ACMilan	
+Monza	
+Fiorentina	
+Roma	
+Atalanta	
+Bologna	
+Empoli	
+HellasVerona	
+Inter	
+Juventus	
+Lazio	
+Sampdoria	
+Sassuolo	
+Spezia	Napoli	Torino										Udinese		Cremonese	
+Lecce																																									Salernitana
